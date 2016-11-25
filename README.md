@@ -23,4 +23,4 @@ public Result getMessage() {
 }
 ```
 
-Fore a detailed info on this project, look at [Writing a Play module](http://codeitcool.blogspot.com/2016/11/writing-play-module.html)
+Fore a detailed info on this project, look at [Writing a Play module](https://medium.com/confest/writing-a-play-module-e8cc95cb9285#.y7zt92vpa)
